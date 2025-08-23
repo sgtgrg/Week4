@@ -1,0 +1,22 @@
+Week 4 - Activity 1: Design use case diagram
+Step 1: Write the number of actors and use cases for your college project, defining the scope of the project in the same way as the activity completed in Week 3 for your college. 
+Share your GitHub Link with your scenario from Week 3.
+ 
+ Actors:
+1. Student: student view and enroll in courses, view classes and grades. 
+2. Lecturer: teach classes, input grades.
+3. Admin: Manages all the data records in the system
+4. Registrar: manages enrollment, presents courses, schedule classes.
+
+Use case activity: 
+
+1. Add Student: An admin or a registrar creates a new student profile
+2. Update/Remove Student: An admin or registrar maintains student record
+3. Add Lecturer: Admin enters new Lecturer details. 
+4. Create Course: Registrar provides courses with their respective departments
+5. Assign Lecturer to Course: Registrar assigns lecturer for a course
+6. Schedule Class: Registrar assigns class room and time. 
+7. Enroll student in class: when a student requests to enroll in a course, the registrar enrolls the student.
+8. Input grades: Lecturer input grades for assessments. 
+9. View records: Students and Lecturer can view courses, classes, grades. Registrar can view students, lecturers, enrollments and Admin can view all the records in the system.
+10. Delete Records: Admin can remove records that are corrupted, incorrect or any other similar problems. 
